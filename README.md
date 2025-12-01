@@ -16,15 +16,15 @@ This project showcases an interactive Power BI dashboard designed to analyze and
 
 # Overall Metrics:
 
-# Total Clicks (12K)
+**Total Clicks** 12K
 
-# Total Spend (19.62K)
+**Total Spend** 19.62K
 
-# Total Impressions (79M)
+**Total Impressions** 79M
 
-# Approved Conversions (585)
+**Approved Conversions** 585
 
-# CPC (1.68).
+**CPC** 1.68
 
 # Demographic Analysis:
 
