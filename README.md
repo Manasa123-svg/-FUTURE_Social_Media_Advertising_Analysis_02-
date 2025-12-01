@@ -61,3 +61,5 @@ A treemap highlights clicks generated from various interest categories, helping 
 # Outcome
 
 The dashboard enables stakeholders to quickly identify high-performing audience segments, optimize campaign strategy, and improve advertising ROI. It provides powerful insights that support data-driven marketing decisions and continuous optimization of digital ad performance.
+
+https://github.com/Manasa123-svg/-FUTURE_Social_Media_Advertising_Analysis_02-/blob/main/Social%20Media%20advertising%20dashboard.png
